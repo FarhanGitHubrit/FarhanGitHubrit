@@ -20,7 +20,7 @@
 
 ```typescript
 const farhanHussain = {
-  title: "Graphic Designer",
+  title: "Data Analysr",
   location: "Kolkata, India",
   education: "MCA @ Amity University (2025 - 2027)",
   stack: {
